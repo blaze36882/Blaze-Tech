@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Blaze-Tech.Client/Blaze-Tech.Client.csproj" />
+  <Project Path="Blaze-Tech/Blaze-Tech.csproj" />
+</Solution>
